@@ -9,7 +9,7 @@
 
     <groupId>cz.geek</groupId>
     <artifactId>itext</artifactId>
-    <version>4.2.1</version>
+    <version>4.2.2-SNAPSHOT</version>
     <licenses>
         <license>
             <name>GNU General Lesser Public License (LGPL) version 3.0</name>
